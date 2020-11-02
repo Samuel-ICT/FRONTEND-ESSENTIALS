@@ -1,1 +1,1 @@
-console.log(student);
+console.log(volledigZin);
