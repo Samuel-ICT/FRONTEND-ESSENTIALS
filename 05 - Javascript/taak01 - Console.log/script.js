@@ -1,10 +1,6 @@
-let stopLichtKleur = "rood"
-if (stopLichtKleur == "rood") {
- console.log("Jij moet stoppen voor het stoplicht");  
-
-     
- } else {
-     console.log("Je mag doorijden")
- }
+let huidigJaartal = 2020;
+let geboorteJaartal = 2001;
+let mijnLeeftijd = huidigJaartal - geboorteJaartal
+console.log(mijnLeeftijd)
     
 
