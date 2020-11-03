@@ -1,7 +1,10 @@
-let mijnLeeftijd = 19;
-        let stemGerechtigleeftijd = 18;
-        if (mijnLeeftijd>stemGerechtigleeftijd) {
-        console.log("Je bent mag stemmen met de verkiezing")
-    }
+let stopLichtKleur = "rood"
+if (stopLichtKleur == "rood") {
+ console.log("Jij moet stoppen voor het stoplicht");  
+
+     
+ } else {
+     console.log("Je mag doorijden")
+ }
     
 
