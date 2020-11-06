@@ -1,4 +1,6 @@
-
+body{
+    background-color: teal;
+}
 .container{
     display: flex;
     
@@ -11,7 +13,7 @@
 .button{
     width: 300px;
     height: 200px;
-    background-color: red;
+    background-color: rgb(6, 206, 206);
     margin: 2px;
     display: flex;
     justify-content: center;
@@ -19,8 +21,3 @@
     
 }
 
-.button span{
-    
-    font-size: 2em;
-    font-family: consolas;
-}
